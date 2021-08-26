@@ -1,4 +1,4 @@
-#Storico report
+# Storico report
 
 ## Funzionalità del widget
 Il widget ha il compito di mostrare una lista di report validati, ricercata in base all'anno e al mese 
