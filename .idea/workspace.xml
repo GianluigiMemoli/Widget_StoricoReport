@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1901c6a8-35ca-45bf-b993-b96eca9fd5ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Storico" />
+        <option value="Filtro" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wdk1b0Q6sDPWdByIuGVjXYNOAe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Content" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gmemo\svelte\Wdiget_StoricoReport\src\Content" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1901c6a8-35ca-45bf-b993-b96eca9fd5ed" name="Default Changelist" comment="" />
+      <created>1628795638820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628795638820</updated>
+      <workItem from="1628795639930" duration="2737000" />
+      <workItem from="1628844610524" duration="7974000" />
+      <workItem from="1628875842230" duration="2494000" />
+      <workItem from="1629126742077" duration="9750000" />
+      <workItem from="1629191105013" duration="3900000" />
+      <workItem from="1629484039057" duration="292000" />
+      <workItem from="1629549636220" duration="1080000" />
+      <workItem from="1629810366649" duration="144000" />
+      <workItem from="1629971427721" duration="1547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="243" key="run.anything.popup" timestamp="1629550358372">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1629550358372" />
+  </component>
+</project>

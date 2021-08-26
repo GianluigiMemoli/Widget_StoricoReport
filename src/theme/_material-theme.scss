@@ -1,0 +1,91 @@
+$primary-color: #a1e5ab;
+$primaryFocused-color: #8fcc99;
+
+$secondary-color: #eeeeee;
+$secondaryFocused-color: #a1e5ab;
+
+$accent-color: #f59a23;
+$accentFocused-color: #f5c423;
+
+$primary-text: #333333;
+
+$description-text: #7f7f7f;
+
+$success-color: #4caf50;
+$info-color: #00bcd4;
+$warning-color: #fb8c00;
+$error-color: #f44336;
+
+/* 
+    Text
+*/
+
+.title-text {
+    color: $primary-text;
+    font-family: Poppins-Medium;
+}
+
+.secondary-title-text {
+    color: $primary-text;
+    font-family: Poppins-Thin;
+}
+
+.description-text {
+    color: $description-text;
+    font-family: Poppins-Regular;
+}
+
+/*
+    Colors
+*/
+
+.primary {
+    background-color: $primary-color;
+}
+
+.primary:hover{
+    background-color: $primaryFocused-color;
+}
+
+.secondary {
+    background-color: $secondary-color;
+}
+
+.secondary:hover{
+    background-color: $secondaryFocused-color;
+}
+
+.accent {
+    background-color: $accent-color;
+}
+
+.accent:hover{
+    background-color: $accentFocused-color;
+}
+
+/*
+    Fonts
+*/
+
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(../media/Fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Thin;
+    src: url(../media/Fonts/Poppins-Thin.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(../media/Fonts/Poppins-Regular.ttf);
+}
+
+/*
+    General tags
+*/
+
+.svlt-grid-shadow {
+    background-color: #FDEAD3 !important;
+}
