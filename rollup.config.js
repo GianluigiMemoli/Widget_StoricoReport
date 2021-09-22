@@ -35,7 +35,10 @@ export default {
 		sourcemap: true,
 		format: 'iife',
 		name: 'app',
-		file: 'public/build/bundle.js'
+		file: 'public/build/bundle.js',
+
+		// Serve per importare dinamicamente i layer
+        inlineDynamicImports: true
 	},
 	plugins: [
 		svelte({

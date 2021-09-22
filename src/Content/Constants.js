@@ -13,5 +13,14 @@ export const WIDGET_DEFAULT_DIMENSION =  { w: 3, h: 6 };
 export const WIDGET_MAX_DIMENSION =  { w: 6, h: 10 };
 export const WIDGET_MIN_DIMENSION =  { w: 1, h: 1 };
 
+// Widget style
+export const BACKGROUND = "#fff";
+
+// Widget configuration
+export const CONFIGURATION = [];
+
+// Default configuration
+export const DEFAULT_CONFIGURATION = {};
+
 // Author
 export const AUTHOR = "Gianluigi Memoli";
